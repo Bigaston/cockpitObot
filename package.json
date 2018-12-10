@@ -1,0 +1,15 @@
+{
+  "name": "cokpitobot",
+  "version": "1.0.0",
+  "description": "OPA Still Better",
+  "main": "cockpit.js",
+  "author": "Bigaston",
+  "license": "MIT",
+  "dependencies": {
+    "he": "^1.2.0",
+    "irc": "^0.5.2",
+    "node-fetch": "^2.3.0",
+    "node-wikipedia": "0.0.2",
+    "tracery-grammar": "^2.7.3"
+  }
+}
